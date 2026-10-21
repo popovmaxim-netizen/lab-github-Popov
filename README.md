@@ -1,2 +1,5 @@
-# lab-github-Popov
-Laborator GitHub — Popov Maxim, AAW2341
+# Laborator GitHub — Popov Maxim
+
+**Acesta este repozitoriul meu pentru laboratorul GitHub.**
+
+Grupa: AAW2341
